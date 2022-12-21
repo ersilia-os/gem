@@ -28,8 +28,8 @@ State the licences used which are GPL v3 license used by Ersilia and the license
 
 ## History
 
-- State the date when the model was downloaded and incorporated into Ersilia.
-- List any essential steps/modifications to the original code
+- In progress
+- The installations work best with python version 3.8
 
 ## About us
 
